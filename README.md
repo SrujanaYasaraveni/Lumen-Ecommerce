@@ -57,5 +57,4 @@ git clone https://github.com/your-username/lumen-ecommerce.git
 
 
 
----
-⭐ If you found this project useful, consider giving it a star!
+
