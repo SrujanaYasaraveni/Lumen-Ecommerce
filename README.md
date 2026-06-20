@@ -54,7 +54,3 @@ git clone https://github.com/your-username/lumen-ecommerce.git
 - Wishlist functionality
 - Payment gateway integration
 - Product rating and review system
-
-
-
-
